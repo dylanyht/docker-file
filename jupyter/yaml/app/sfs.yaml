@@ -52,3 +52,9 @@ spec:
       - name: time
         hostPath:
           path: /etc/localtime
+
+
+
+
+
+---
